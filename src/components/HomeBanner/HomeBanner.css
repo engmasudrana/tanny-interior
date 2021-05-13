@@ -1,0 +1,33 @@
+.topFixedBanner{
+    background-image: url("../../images/banner.jpg");
+    min-height: 520px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.topBannerOverlay{
+    position: absolute;
+    min-height: 520px;
+    width: 100%;
+    background: rgba(0,0,0,0.6);
+}
+.topContent{
+    margin-top: 10rem !important;
+}
+.topTitle{
+    font-weight: 800;
+    color: #FFFFFF;
+    font-size: 48px;
+}
+.topSubTitle{
+    font-family: 'Raleway',sans-serif;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 38px !important;
+    margin-top: 1rem;
+}
+.home-des{
+    font-size: 15px;
+    color: gainsboro;
+}

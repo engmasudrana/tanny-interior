@@ -1,0 +1,64 @@
+.footerBg{
+    background-color: #f9f9f9;
+    margin-top: 7rem;
+}
+.tagTitle{
+    margin-top: 2.4rem;
+    font-size: 14px;
+    color: grey;
+    line-height: 1.5rem;
+}
+.footerTitle{
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    color: #484848;
+}
+.footerDes{
+    color: grey;
+    transition: all 0.5s ease;
+    line-height:  40px;
+    font-size: 14px;
+    margin-left: 0;
+}
+.footerDes:hover{
+    color: #B19777;
+    margin-left: 5px;
+}
+.footerAddress{
+    margin-top: 2.5rem;
+    line-height: 30px;
+    font-size: 14px;
+    font-weight: 400;
+    color: grey;
+}
+/*-- Footer End --*/
+.footer-border{
+    border-top: 1px solid #E0E4E7;
+}
+.copyright-info{
+    font-size: 14px;
+    color: gray;
+}
+.designer-info{
+    font-size: 14px;
+    color: gray;
+    margin-left: 35rem;
+}
+.design-by{
+    color: #3a4256;
+    font-weight: 500;
+    font-size: 14px;
+}
+.iconList{
+    margin-left: -9px;
+    cursor: pointer;
+}
+.footerIcon{
+    font-size: 24px;
+    margin: 0px 8px;
+    color: grey;
+    cursor: pointer;
+    transition: all ease .5s;
+}

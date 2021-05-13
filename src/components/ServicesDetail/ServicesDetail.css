@@ -1,0 +1,40 @@
+.service-bg{
+    background-color: #F3F3F3;
+}
+.service-title{
+    color: #B19777;
+}
+.title{
+    color: #484848;
+    font-size: 20px;
+}
+.service-des{
+    font-size: 14px;
+}
+.price{
+    font-weight: 500;
+    font-size: 14px;
+    margin-left: -3rem;
+}
+.service-card{
+    margin: 20px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all ease .5s;
+    background-color: #FFFFFF;
+}
+.service-card:hover{
+    background-color: #f9f9f9;
+    border-radius: 4px;
+}
+.service-icon{
+    width: 22%;
+    transition: all ease .5s;
+    text-align: center;
+}
+.service-icon:hover{
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    border: 1px solid #B19777;
+    padding: .4rem;
+}

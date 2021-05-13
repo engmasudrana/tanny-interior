@@ -1,0 +1,26 @@
+.team-img{
+    background-color: #f9f9f9;
+    height: 250px;
+}
+.team-sub-title{
+    margin-bottom: 4rem;
+}
+.member-name{
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 1rem;
+}
+.member-des{
+    color: #3a4256;
+    font-size: 16px;
+}
+.social-icon{
+    margin: 0 .5rem;
+    color: #B19777;
+    font-size: 18px;
+    transition: all ease .5s;
+    cursor: pointer;
+}
+.social-icon:hover{
+    color: blue;
+}

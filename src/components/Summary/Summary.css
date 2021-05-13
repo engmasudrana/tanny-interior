@@ -1,0 +1,23 @@
+.summary-title{
+    font-size: 18px;
+    font-weight: 600;
+    color: #B19777;
+}
+.summary-sub-title{
+    font-weight: 500;
+    color: #3a4256;
+    margin-bottom: 7rem;
+}
+.planing-number{
+    font-size: 85px;
+    font-weight: 900;
+    color: #B19777;
+    transition: all ease .5s;
+    cursor: pointer;
+}
+.planing-number:hover{
+    margin-top: -.5rem;
+}
+.text-des{
+    color: gray;
+}

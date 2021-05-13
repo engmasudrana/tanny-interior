@@ -1,0 +1,47 @@
+.sidenavOpen {
+    height: 100%;
+    width: 220px;
+    position: fixed;
+    z-index: 10;
+    top: 4.1rem;
+    left: 0;
+    box-shadow: 0 0 6px 0 rgba(240, 240, 240,9);
+    padding-top: 30px
+}
+.NavItem{
+    color:#3A4256;
+    font-size: 1rem;
+    line-height: 30px;
+    transition: all ease .5s;
+}
+.NavItem:hover{
+    color:#28A745;
+}
+.navBg{
+    box-shadow: 0 0 6px 0 rgba(240, 240, 240,2);
+    height: 63px;
+}
+.loginBtn{
+    margin-right: 50px !important;
+}
+.mainDiv{
+    margin-left: 60px !important;
+    margin-top: 80px !important;
+}
+.user-image{
+    width: 35px;
+    border-radius: 50%;
+}
+.admin-title{
+    color: #3a4256;
+    font-weight: 800;
+}
+.card {
+    border: none !important;
+    border-radius: 1% !important;
+    box-shadow: 0 0 6px 0 rgba(240, 240, 240,1);
+}
+.card:hover{
+    border: none !important;
+    box-shadow: 0 0 10px 0 rgba(240, 240, 240,2);
+}
